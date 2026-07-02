@@ -1,5 +1,8 @@
 # Salary Predictor 💰 — GUI Edition
 
+## 🚀 Live Demo
+🔗 https://salary-predictordsprojectned-q6e6wbugampmxnahkzhv4x.streamlit.app/
+
 A Random Forest model that predicts salary from 9 job-market features, now with a
 **black & sea-green GUI** built in Streamlit — rebuilt from the original
 command-line tool.
